@@ -36,7 +36,7 @@ import org.wordpress.android.viewmodel.ScopedViewModel
 import javax.inject.Inject
 import javax.inject.Named
 
-private const val CHANGE_SAVE_DELAY = 500L
+private const val CHANGE_SAVE_DELAY = 0L
 private const val MAX_UNSAVED_POSTS = 50
 
 class StorePostViewModel
